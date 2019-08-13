@@ -1,0 +1,52 @@
+{
+    "departments": [
+        {
+            "id": 1,
+            "name": "Sales"
+        },
+        {
+            "id": 2,
+            "name": "HR"
+        },
+        {
+            "id": 3,
+            "name": "Payroll"
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "full_name": "Martha Stweart",
+            "departmentId": 3,
+            "computerId": 1
+        },
+        {
+            "id": 2,
+            "full_name": "Gordon Ramsay",
+            "departmentId": 2,
+            "computerId": 2
+        },
+        {
+            "id": 3,
+            "full_name": "Zac Effron",
+            "departmentId": 3,
+            "computerId": 2
+        },
+        {
+            "id": 4,
+            "full_name": "Julia Roberts",
+            "departmentId": 1,
+            "computerId": 1
+        }
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "computerModel": "MAC"
+        },
+        {
+            "id": 2,
+            "computerModel": "DELL"
+        }
+    ]
+}
